@@ -1,0 +1,16 @@
+Package: benr
+Type: Package
+Title: Sample Functions for Math and Rolling Dice
+Version: 0.1.0
+Authors@R:c(person("Ben", "Jones", email = "jonesb@appstate.edu",
+            role = c("aut", "cre")),
+            person("Jack", "Leff", email = "leffjr@appstate.edu",
+            role = "aut"),
+            person("Erin", "Kreiling", email = "kreilingeg@appstate.edu",
+            role = "aut"))
+Description: More about what it does (maybe more than one line)
+License: GPL-2
+LazyData: TRUE
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
