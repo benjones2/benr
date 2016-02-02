@@ -8,7 +8,9 @@ Authors@R:c(person("Ben", "Jones", email = "jonesb@appstate.edu",
             role = "aut"),
             person("Erin", "Kreiling", email = "kreilingeg@appstate.edu",
             role = "aut"))
-Description: https://github.com/benjones2/benr
+Description: Functions to perform basic operations and rolling/shuffling.
+URL: https://github.com/benjones2/benr
+BugReports: https://github.com/benjones2/benr/issues
 License: GPL-2
 LazyData: TRUE
 Suggests: knitr,
